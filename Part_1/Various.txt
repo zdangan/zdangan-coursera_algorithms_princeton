@@ -1,0 +1,5 @@
+javac -d . src/CollidingDisks.java 
+java CollidingDisks
+
+javac -d . src/Cat.java
+java Cat data/cat_in1.txt data/cat_in2.txt tmp/out_cat.txt

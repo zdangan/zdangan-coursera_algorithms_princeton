@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/Florian/Coursera/zdangan-coursera_algorithms_princeton/algs4/**/*.jar"
+        ],
+        "exclude": [
+            "lib/algs4.jar"
+        ]
+    }
+}
